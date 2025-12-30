@@ -4,7 +4,7 @@
 This project analyzes champion pick and ban trends from Worlds 2025 matches using Python and Jupyter Notebook.
 The goal is to explore meta trends such as pick rate, ban rate, and win rate for each champion.
 
-Before the tournament, there was an in-game event where players could predict champions for categories like "Most Kills" and "Most Bans".
+Before the tournament, there was an event where players could predict champions for categories like "Most Kills" and "Most Bans".
 Correct predictions rewarded points, and accumulating enough points could earn exclusive in-game skins.
 Because of this, I wanted to track pick and ban trends in near real time to make better predictions, which led me to create this project.
 
