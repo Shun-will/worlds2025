@@ -10,7 +10,7 @@ Because of this, I wanted to track pick and ban trends in near real time to make
 
 ## Data
 The data was manually collected and entered into an Excel file based on Worlds 2025 match records.
-Each match includes champion picks (Pick1–Pick5), bans (Ban1–Ban5), team name, and match result (Win/Lose).
+Each match includes champion picks, bans, team name, and match result.
 
 Note:  
 The original Excel file is not included in this repository because it was accidentally deleted.
@@ -40,6 +40,3 @@ However, this project focuses on demonstrating data processing, aggregation, and
 - Pandas
 - Matplotlib
 - JupyterLab
-
-## Files
-- `world2025_analysis.ipynb` : main analysis notebook
